@@ -45,11 +45,11 @@ Here are some ideas to get you started:
 
 ### My Projects!
 
-- Snack-overflow: <a>snack-overflow-premium.herokuapp.com</a>
-- e-flick: e-flick.herokuapp.com
-- komication: komication.herokuapp.com
-- ltnk: ltnk.herokuapp.com
+- [Snack-overflow](snack-overflow-premium.herokuapp.com)
+- [e-flick](e-flick.herokuapp.com)
+- [komication](komication.herokuapp.com)
+- [ltnk](ltnk.herokuapp.com)
 
 ### Contact me
 
-Email: arasargsyan0622@gmail.com linkedIn AngelList
+Email: arasargsyan0622@gmail.com [LinkedIn](https://www.linkedin.com/in/larasargsyanl/) [AngelList](https://angel.co/profile/edit/overview)
